@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Welcome to NEVAR
 
-<!--
-**Nevar-dev/Nevar-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# NEVAR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CODE · CREATE · INNOVATE
+
+Building creative digital projects with technology.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Hi, I'm **NEVAR**.
+
+I'm a developer who enjoys creating websites, tools, and interactive experiences.
+
+I turn ideas into real projects and explore new technologies.
+
+---
+
+## 🛠️ Skills
+
+💻 Web Development  
+🌐 HTML / CSS / JavaScript  
+⚡ Modern UI Design  
+🗄️ Supabase & Backend Services  
+🎮 Interactive Projects
+
+---
+
+## ⭐ Featured Projects
+
+### 🌌 NEXUS-NEW
+A futuristic dashboard with accounts, XP system, leaderboard and more.
+
+### 🎯 Focus
+A student productivity and planning platform.
+
+### ✅ Key_Tamoom
+A practical task and deadline management project.
+
+### 🐍 On-Py
+A Python-related project.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nevar-Dev&show_icons=true&theme=tokyonight)
+
+---
+
+<div align="center">
+
+**NEVAR**  
+`CODE · CREATE · INNOVATE`
+
+</div>
