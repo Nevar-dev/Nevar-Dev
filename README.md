@@ -1,8 +1,8 @@
-# 👋 Welcome to NEVAR
+# 👋 Welcome to BROTEX
 
 <div align="center">
 
-# NEVAR
+# BROTEX
 
 ### CODE · CREATE · INNOVATE
 
@@ -14,7 +14,7 @@ Building creative digital projects with technology.
 
 ## 🚀 About Me
 
-Hi, I'm **NEVAR**.
+Hi, I'm **BROTEX**.
 
 I'm a developer who enjoys creating websites, tools, and interactive experiences.
 
@@ -56,7 +56,7 @@ A Python-related project.
 
 <div align="center">
 
-**NEVAR**  
+**BROTEX**  
 `CODE · CREATE · INNOVATE`
 
 </div>
